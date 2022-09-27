@@ -1,0 +1,1 @@
+SUBSYSTEM=="usb" ACTION=="add" RUN=="python36 /root/Desktop/mycam.py"
